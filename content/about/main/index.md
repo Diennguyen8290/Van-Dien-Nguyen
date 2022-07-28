@@ -11,7 +11,7 @@ intro: |
   
   Currently, I'm a PhD student at School of Medicine, Cardiff, United Kingdom, where I’m juggling between hepatology, immunology and bioinformatics. I have a great interest in hepatology, and lately, bioinformatics. My focus is to leverage bulk sequencing (RNA requencing and microarray), single cell RNA sequencing and spatial transcriptomics to better understand liver diseases.
   
-  In my free time, I read, write (mostly poem), and travel whenever possible. I also love to meet and talk to new people too. I’m always open to interesting conversations and collaboration.
+  In my free time, I read, write (mostly poem), and travel whenever possible. I love to meet and talk to new people too. I’m always open to interesting conversations and collaboration.
 show_outro: true
 outro: |
   <i class="fas fa-mug-hot pr2"></i>Thank you for visiting!
